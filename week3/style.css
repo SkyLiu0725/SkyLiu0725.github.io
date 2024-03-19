@@ -1,0 +1,29 @@
+* {
+  color: rgb(104, 113, 213);
+}
+
+h1 {
+  color: rgb(183, 29, 29);
+}
+p {
+  color: brown;
+}
+span {
+  color: orange;
+}
+.my-colors {
+  color: #1cc449;
+}
+#venue {
+  color: rgb(76, 11, 11);
+}
+[data-email="email"] {
+  color: #5e0c50;
+}
+
+ol > li {
+  color: aquamarine;
+}
+.strong {
+  color: black;
+}
